@@ -1,4 +1,4 @@
-const result = "Pass";
+const result : string = "Pass";
 
 if (result === "Pass") {
   console.log("Succes");
